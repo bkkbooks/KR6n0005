@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6n0005/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 菩薩善戒經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T30/T30n1583.xml
+    old_id: T30n1583
+hash: sha256:9de5313f0ca3dbf3221ff942b487f0da18c052b4bf0dbad8fd4099e3687dd5a2

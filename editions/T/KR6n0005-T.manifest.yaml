@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6n0005/T/v1
+canonical_location: https://kanripo.org/bkk/KR6n0005/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 菩薩善戒經
+  identifiers:
+    krp: KR6n0005
+    cbeta: T30n1583
+    cbeta_old_id: T30n1583
+    authorityid: CA0002451
+    json_key: T1583
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T30/T30n1583.xml
+    old_id: T30n1583
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0005_000-T.yaml, hash: 'sha256:9de5313f0ca3dbf3221ff942b487f0da18c052b4bf0dbad8fd4099e3687dd5a2'}
+  - {seq: 1, filename: KR6n0005_001-T.yaml, hash: 'sha256:6f842c490012191fa8eae20830ad446070b1ff482bae35a2e7d63a91e8de0bb8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6n0005_000-T.markers.yaml, hash: 'sha256:b3cd9c85038e159ea53f55d93c22431ed39a13b128f65809949f242000b19c00'}
+  - {seq: 1, role: markers, filename: assets/KR6n0005_001-T.markers.yaml, hash: 'sha256:c8b65423d3c99a185aa5aa685d99c24581dbdff219c4d39169f0fc81abe6a1fc'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6n0005_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6346
+  label: '菩薩善戒經一卷
+
+    優波離問菩薩受戒法'
+  type: juan
+  level: 1
+hash: sha256:562cd789ea24ddd5a131d5ac55076d9f91d7f8d3982561883637e56362003d0d
