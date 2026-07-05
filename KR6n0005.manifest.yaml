@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6n0005_000.yaml, hash: 'sha256:9de5313f0ca3dbf3221ff942b487f0da18c052b4bf0dbad8fd4099e3687dd5a2'}
-  - {seq: 1, filename: KR6n0005_001.yaml, hash: 'sha256:1278a86b868bab86131ae0736bab5f17db4e80c2466639a0cbfe6bff93926077'}
+  - {seq: 1, filename: KR6n0005_001.yaml, hash: 'sha256:6f842c490012191fa8eae20830ad446070b1ff482bae35a2e7d63a91e8de0bb8'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6n0005_001.markers.yaml, hash: 'sha256:5afc1a52333472765cbcd9bb3f41bb9266d20650d547a017c976cf53dfd600c1'}
+  - {seq: 0, role: markers, filename: assets/KR6n0005_000.markers.yaml, hash: 'sha256:2463c09a92e310ea647b6797c6f6f4d50df007b1293178c9c957ddb4579f4370'}
+  - {seq: 1, role: markers, filename: assets/KR6n0005_001.markers.yaml, hash: 'sha256:171ecf02dc49c131d76a28dbe508b498f47db31b436aa6bc004dee503d0d1187'}
 table_of_contents:
 - ref:
     seq: 1
@@ -50,7 +51,4 @@ table_of_contents:
     優波離問菩薩受戒法'
   type: juan
   level: 1
-hash: sha256:520e9f61a3d71c23087b8c3a15866f9efce36e616cf9cd87e5bb0941db9d7720
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:c4c21c784dfbba9734c4ef75395f90d36e05a2ae8aad72c16a32593d1d1953db
